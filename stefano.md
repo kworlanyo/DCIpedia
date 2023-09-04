@@ -25,3 +25,4 @@
 - 2003	Castlevania: Aria of Sorrow
 - 2004 Castlevania: Lament of Innocence
 - 2005	Castlevania: Dawn of Sorrow
+- last information 
